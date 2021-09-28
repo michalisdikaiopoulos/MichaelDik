@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :book: Studying Informatics at Athens University of Economics and Business
-    📘
+### Personal Information
+    👴 21 years old
+    📘 Studying Informatics at Athens University of Economics and Business - Senior Undergraduate
+    🕴️  I currently compete in an Entrepreneurial competition with a Fintech idea
+    🎸 Currently a guitar learner
+    🌍 Trip lover
+    
+### Technical Background
+    :Python
