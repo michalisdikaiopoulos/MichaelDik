@@ -22,4 +22,15 @@ Here are some ideas to get you started:
     🌍 Trip lover
     
 ### Technical Background
-    :Python
+    * Programming Languages
+        Python - Anaconda distribution, Pycharm IDE, Pandas, numpy, Tensorflow (currently learning) libraries
+        Java - Intellij IDE, Android Studio IDE, Android Programming
+        C++ - Visual Studio IDE
+        SQL - PostgreSQL, SQL Server, Microsoft SSMS
+        R - R Studio IDE
+       
+    * Other Tools
+        Docker containerization platform
+        Git & Github (obviously)
+        Microsoft Office, Libre Office
+        AWS
