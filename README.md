@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :book: Programming Languages and Tools
+### :book: Studying Informatics at Athens University of Economics and Business
+    📘
