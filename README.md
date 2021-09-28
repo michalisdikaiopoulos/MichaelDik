@@ -2,7 +2,6 @@
 
 <!--
 **MichaelDik/MichaelDik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying Informatics in Athens University of Economics and Business...
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Programming Languages and Tools
